@@ -1,0 +1,64 @@
+* {
+  margin: o;
+  padding: 0;
+
+}
+
+body {
+  background-color: lightgray;
+  font-family: lexend deca;
+  font-weight: 400px;
+
+
+}
+
+main {
+  font-size: 15px;
+  width: 50%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: white flex-direction:column;
+  color: white;
+  width: 50%;
+
+
+}
+
+.clue {
+  display: flex;
+}
+
+.clue .class1 {
+  background-color: #eda012;
+  padding: 2em;
+}
+
+
+button {
+  background-color: lightgray;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+
+}
+
+.button1 {
+  color: orange;
+
+}
+
+.block {
+  display: block;
+  border: none;
+  background-color: #04AA6D;
+  color: white;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  font-weight: bold;
+}
